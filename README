@@ -1,0 +1,5 @@
+A example Maven project that builds Java code and generates lots of reports -
+FindBugs, code coverage etc
+
+It uses code from the ugly-and-clean-tictactoe project 
+(http://code.google.com/p/ugly-and-clean-tictactoe/) which is licensed under the GPL v3
